@@ -1,0 +1,1 @@
+Chroma is the open-source AI application database. Chroma makes it easy to build LLM applications by making knowledge, facts, and skills pluggable for LLMs. It provides tools to store embeddings and their metadata, embed documents and queries, and search embeddings. It is designed to be lightweight and easy to use, supporting both in-memory and persistent storage.
